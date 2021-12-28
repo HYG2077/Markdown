@@ -1,3 +1,3 @@
 # Markdown
-Markdown tips
-Check it out!
+## Markdown tips!
+## Check it out!
